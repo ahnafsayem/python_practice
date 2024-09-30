@@ -2,7 +2,7 @@
 
 This repository contains practice code and examples that cover basic Python programming along with essential libraries and topics for data science. The focus is on foundational concepts, using libraries like **NumPy**, **Pandas**, and **Seaborn**, as well as **statistics** and **probability** relevant to data science.
 
-##Contents
+## Contents
 1. Python Basics
 2. Data Analysis & Visualization Tools (Numpy, Pandas, Matplotlib, Seaborn)
 3. Statistics and Probability for Data Science
