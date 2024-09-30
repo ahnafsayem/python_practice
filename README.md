@@ -4,8 +4,9 @@ This repository contains practice code and examples that cover basic Python prog
 
 ## Contents
 1. Python Basics
-2. Data Analysis & Visualization Tools (Numpy, Pandas, Matplotlib, Seaborn)
-3. Statistics and Probability for Data Science
+2. Exercises on Python Basics
+3. Data Analysis & Visualization Tools (Numpy, Pandas, Matplotlib, Seaborn)
+4. Statistics and Probability for Data Science
 ---
 
 ## Python Basics
